@@ -7,7 +7,7 @@
 ## Categories
 
 - Any%
-- 100%
+- [100%](/100.md)
 - Low%
 - The Challenge (All Lasers)
 - Easter Egg Ending
